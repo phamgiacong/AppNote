@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ghi chú</string>
+    <string name="notes">Ghi chú</string>
+    <string name="create_your_first_note">Tạo ghi chú đầu tiên của bạn!</string>
+    <string name="title">Tiêu đề</string>
+    <string name="type_something">Nhập nội dung nào đó...</string>
+    <string name="save_changes">Lưu thay đổi ?</string>
+    <string name="discard">Loại bỏ</string>
+    <string name="save">Lưu</string>
+    <string name="keep">Giữ</string>
+    <string name="confirm">Xác nhận</string>
+    <string name="text_content_dialog_delete">Bạn có chắc chắn muốn xóa ghi chú không?</string>
+    <string name="text_content_dialog_cancel">Bạn có chắc chắn muốn hủy các thay đổi của mình không?</string>
+    <string name="search_by_the_keyword">Tìm kiếm theo từ khóa...</string>
+    <string name="file_not_found_try_searching_again">Không tìm thấy tập tin. Hãy thử tìm kiếm lại.</string>
+    <string name="setting">Cài đặt</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="dark_mode">Chế độ tối</string>
+    <string name="please_take_notes">Xin hãy ghi chú !</string>
+    <string name="do_not_have_any_change">Không có bất kỳ thay đổi nào !</string>
+    <string name="add_a_notification">Thêm thông báo</string>
+    <string name="add_a_featured_photo">Thêm ảnh nổi bật</string>
+
+    <string name="en">Tiếng Anh</string>
+    <string name="ja">Tiếng Nhật</string>
+    <string name="lo">Tiếng Lào</string>
+    <string name="th">Tiếng Thái</string>
+    <string name="vi">Tiếng Việt</string>
+    <string name="zh">Tiếng Trung</string>
+
+    <string name="date">Ngày</string>
+    <string name="time">Thời gian</string>
+    <string name="today">Hôm nay</string>
+
+    <string name="sun">CN</string>
+    <string name="mon">T2</string>
+    <string name="tue">T3</string>
+    <string name="web">T4</string>
+    <string name="thu">T5</string>
+    <string name="fri">T6</string>
+    <string name="sat">T7</string>
+
+    <string name="january">Tháng 1</string>
+    <string name="february">Tháng 2</string>
+    <string name="march">Tháng 3</string>
+    <string name="april">Tháng 4</string>
+    <string name="may">Tháng 5</string>
+    <string name="june">Tháng 6</string>
+    <string name="july">Tháng 7</string>
+    <string name="august">Tháng 8</string>
+    <string name="september">Tháng 9</string>
+    <string name="october">Tháng 10</string>
+    <string name="november">Tháng 11</string>
+    <string name="december">Tháng 12</string>
+</resources>

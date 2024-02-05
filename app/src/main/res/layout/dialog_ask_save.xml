@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="330dp"
+        android:layout_height="236dp"
+        android:background="@drawable/border_layout"
+        android:backgroundTint="@color/background_dialog"
+        android:gravity="center"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/imgInfo"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_gravity="center"
+            android:adjustViewBounds="true"
+            android:contentDescription="@null"
+            android:src="@drawable/info" />
+
+        <TextView
+            android:id="@+id/tvContentDialog"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginHorizontal="34dp"
+            android:layout_marginTop="25dp"
+            android:gravity="center"
+            android:text="@string/save_changes"
+            android:textColor="@color/secondary_text"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tvButtonDiscard"
+                android:layout_width="112dp"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="35dp"
+                android:background="@drawable/border_button"
+                android:backgroundTint="@color/discard_button"
+                android:gravity="center"
+                android:paddingVertical="10dp"
+                android:text="@string/discard"
+                android:textColor="@color/primary_text_button"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/tvButtonSave"
+                android:layout_width="112dp"
+                android:layout_height="wrap_content"
+                android:background="@drawable/border_button"
+                android:backgroundTint="@color/save_button"
+                android:gravity="center"
+                android:paddingVertical="10dp"
+                android:textColor="@color/primary_text_button"
+                android:textSize="18sp"
+                tools:text="Save" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

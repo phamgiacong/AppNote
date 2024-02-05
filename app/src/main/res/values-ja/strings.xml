@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ノート</string>
+    <string name="notes">ノート</string>
+    <string name="create_your_first_note">最初のノートを作成してください!</string>
+    <string name="title">タイトル</string>
+    <string name="type_something">何かを入力・・・</string>
+    <string name="save_changes">変更内容を保存 ？</string>
+    <string name="discard">破棄</string>
+    <string name="save">保存</string>
+    <string name="keep">保つ</string>
+    <string name="confirm">確認</string>
+    <string name="text_content_dialog_delete">メモを削除してもよろしいですか?</string>
+    <string name="text_content_dialog_cancel">変更を破棄してもよろしいですか?</string>
+    <string name="search_by_the_keyword">キーワードで検索すると・・・</string>
+    <string name="file_not_found_try_searching_again">ファイルが見つかりません。 もう一度検索してみてください。</string>
+    <string name="setting">設定</string>
+    <string name="language">言語</string>
+    <string name="dark_mode">ダークモード</string>
+    <string name="please_take_notes">メモを取ってください !</string>
+    <string name="do_not_have_any_change">変更はありません!</string>
+    <string name="add_a_notification">通知を追加する</string>
+    <string name="add_a_featured_photo">注目の写真を追加します</string>
+
+    <string name="en">英語</string>
+    <string name="ja">日本語</string>
+    <string name="lo">ラオ語</string>
+    <string name="th">タイ語</string>
+    <string name="vi">ベトナム語</string>
+    <string name="zh">中国語</string>
+</resources>

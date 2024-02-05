@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="notes">Notes</string>
+    <string name="create_your_first_note">Create your first note !</string>
+    <string name="title">Title</string>
+    <string name="type_something">Type something...</string>
+    <string name="save_changes">Save changes ?</string>
+    <string name="discard">Discard</string>
+    <string name="save">Save</string>
+    <string name="keep">Keep</string>
+    <string name="confirm">Confirm</string>
+    <string name="text_content_dialog_delete">Are you sure you want to delete the note ?</string>
+    <string name="text_content_dialog_cancel">Are your sure you want discard your changes ?</string>
+    <string name="search_by_the_keyword">Search by the keyword...</string>
+    <string name="file_not_found_try_searching_again">File not found. Try searching again.</string>
+    <string name="setting">Setting</string>
+    <string name="language">Language</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="please_take_notes">Please take notes !</string>
+    <string name="do_not_have_any_change">Do not have any change !</string>
+    <string name="add_a_notification">Add a notification</string>
+    <string name="add_a_featured_photo">Add a featured photo</string>
+
+    <string name="en">English</string>
+    <string name="ja">Japanese</string>
+    <string name="lo">Laos</string>
+    <string name="th">Thai</string>
+    <string name="vi">Vietnamese</string>
+    <string name="zh">Chinese</string>
+
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="today">Today</string>
+
+    <string name="sun">Su</string>
+    <string name="mon">Mo</string>
+    <string name="tue">Tu</string>
+    <string name="web">We</string>
+    <string name="thu">Th</string>
+    <string name="fri">Fr</string>
+    <string name="sat">Sa</string>
+
+    <string name="january">January</string>
+    <string name="february">February</string>
+    <string name="march">March</string>
+    <string name="april">April</string>
+    <string name="may">May</string>
+    <string name="june">June</string>
+    <string name="july">July</string>
+    <string name="august">August</string>
+    <string name="september">September</string>
+    <string name="october">October</string>
+    <string name="november">November</string>
+    <string name="december">December</string>
+
+</resources>

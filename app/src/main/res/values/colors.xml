@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--    text-->
+    <color name="primary_text">#131313</color>
+    <color name="secondary_text">#7C7C7C</color>
+    <color name="tertiary_text">#FFFFFFFF</color>
+    <color name="quaternary_text">#34C759</color>
+    <color name="primary_text_item">#131313</color>
+    <color name="secondary_text_item">#868484</color>
+    <color name="primary_text_button">#131313</color>
+    <color name="text_search">#7C7C7C</color>
+
+    <!--    button-->
+    <color name="discard_button">#F36B61</color>
+    <color name="save_button">#6CF1A8</color>
+
+    <!--    switch-->
+    <color name="thumbTint">#FFFFFFFF</color>
+    <color name="trackTint">#2A573F</color>
+
+    <!-- line-->
+    <color name="line">#B6B6B6</color>
+
+    <!-- layout item-->
+
+    <color name="primary_layout_item_dialog">#FFFFFFFF</color>
+    <color name="secondary_layout_item_dialog">#2A573F</color>
+
+    <!--    layout icon-->
+    <color name="primary_layout_icon">#181818</color>
+    <color name="primary_layout_icon_no">#787878</color>
+    <color name="background_dialog">#FFFFFFFF</color>
+    <color name="background_edt_search">#F0F0F0</color>
+    <color name="background_item_language">#F0F0F0</color>
+
+    <!--    background-->
+    <color name="background_1">#D9E8FC</color>
+    <color name="background_2">#FDE99D</color>
+    <color name="background_3">#FFEADD</color>
+    <color name="background_4">#FFD8F4</color>
+    <color name="background_5">#B0E9CA</color>
+</resources>

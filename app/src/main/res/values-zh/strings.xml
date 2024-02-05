@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">笔记</string>
+    <string name="notes">笔记</string>
+    <string name="create_your_first_note">创建你的第一个笔记！</string>
+    <string name="title">标题</string>
+    <string name="type_something">输入一些内容...</string>
+    <string name="save_changes">保存更改吗？</string>
+    <string name="discard">丢弃</string>
+    <string name="save">保存</string>
+    <string name="keep">保留</string>
+    <string name="confirm">确认</string>
+    <string name="text_content_dialog_delete">您确定要删除该注释吗？</string>
+    <string name="text_content_dialog_cancel">您确定要放弃更改吗？</string>
+    <string name="search_by_the_keyword">按关键字搜索...</string>
+    <string name="file_not_found_try_searching_again">找不到文件。 尝试再次搜索。</string>
+    <string name="setting">设置</string>
+    <string name="language">语言</string>
+    <string name="dark_mode">深色模式</string>
+    <string name="please_take_notes">请记笔记！</string>
+    <string name="do_not_have_any_change">没有任何更改！</string>
+    <string name="add_a_notification">添加通知</string>
+    <string name="add_a_featured_photo">添加精选照片</string>
+
+    <string name="en">英语</string>
+    <string name="ja">日语</string>
+    <string name="lo">老挝</string>
+    <string name="th">泰语</string>
+    <string name="vi">越南语</string>
+    <string name="zh">中文</string>
+</resources>

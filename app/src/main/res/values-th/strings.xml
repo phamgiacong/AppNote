@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">หมายเหตุ</string>
+    <string name="notes">หมายเหตุ</string>
+    <string name="create_your_first_note">สร้างบันทึกแรกของคุณ !</string>
+    <string name="title">ชื่อเรื่อง</string>
+    <string name="type_something">พิมพ์บางอย่าง...</string>
+    <string name="save_changes">บันทึกการเปลี่ยนแปลง ?</string>
+    <string name="discard">ยกเลิก</string>
+    <string name="save">บันทึก</string>
+    <string name="keep">เก็บ</string>
+    <string name="confirm">ยืนยัน</string>
+    <string name="text_content_dialog_delete">คุณแน่ใจหรือไม่ว่าต้องการลบบันทึก</string>
+    <string name="text_content_dialog_cancel">คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการเปลี่ยนแปลง</string>
+    <string name="search_by_the_keyword">ค้นหาด้วยคำหลัก...</string>
+    <string name="file_not_found_try_searching_again">ไม่พบไฟล์ ลองค้นหาอีกครั้ง</string>
+    <string name="setting">การตั้งค่า</string>
+    <string name="language">ภาษา</string>
+    <string name="dark_mode">โหมดมืด</string>
+    <string name="please_take_notes">โปรดจดบันทึก !</string>
+    <string name="do_not_have_any_change">ไม่มีการเปลี่ยนแปลงใดๆ !</string>
+    <string name="add_a_notification">เพิ่มการแจ้งเตือน</string>
+    <string name="add_a_featured_photo">เพิ่มรูปภาพเด่น</string>
+
+    <string name="en">ภาษาอังกฤษ</string>
+    <string name="ja">ภาษาญี่ปุ่น</string>
+    <string name="lo">ลาว</string>
+    <string name="th">ไทย</string>
+    <string name="vi">ภาษาเวียดนาม</string>
+    <string name="zh">ภาษาจีน</string>
+</resources>

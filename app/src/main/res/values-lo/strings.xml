@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ຫມາຍ​ເຫດ​</string>
+    <string name="notes">ຫມາຍ​ເຫດ​</string>
+    <string name="create_your_first_note">ສ້າງບັນທຶກທຳອິດຂອງເຈົ້າ !</string>
+    <string name="title">ຊື່</string>
+    <string name="type_something">ພິມບາງສິ່ງບາງຢ່າງ...</string>
+    <string name="save_changes">ບັນທຶກການປ່ຽນແປງບໍ?</string>
+    <string name="discard">ຍົກເລີກ</string>
+    <string name="save">ບັນທຶກ</string>
+    <string name="keep">ຮັກສາ</string>
+    <string name="confirm">ຢືນຢັນ</string>
+    <string name="text_content_dialog_delete">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການລຶບບັນທຶກດັ່ງກ່າວ?</string>
+    <string name="text_content_dialog_cancel">ທ່ານແນ່ໃຈບໍ່ວ່າຕ້ອງການຍົກເລີກການປ່ຽນແປງຂອງທ່ານ?</string>
+    <string name="search_by_the_keyword">ຊອກຫາດ້ວຍຄຳສຳຄັນ...</string>
+    <string name="file_not_found_try_searching_again">ບໍ່ພົບໄຟລ໌. ລອງຊອກຫາອີກຄັ້ງ.</string>
+    <string name="setting">ຕັ້ງ</string>
+    <string name="language">ພາສາ</string>
+    <string name="dark_mode">ໂໝດມືດ</string>
+    <string name="please_take_notes">ກະລຸນາບັນທຶກ !</string>
+    <string name="do_not_have_any_change">ບໍ່ມີການປ່ຽນແປງ !</string>
+    <string name="add_a_notification">ເພີ່ມ​ການ​ແຈ້ງ​ເຕືອນ</string>
+    <string name="add_a_featured_photo">ເພີ່ມຮູບທີ່ໂດດເດັ່ນ</string>
+
+    <string name="en">ພາສາອັງກິດ</string>
+    <string name="ja">ພາສາຍີ່ປຸ່ນ</string>
+    <string name="lo">ລາວ</string>
+    <string name="th">ພາສາໄທ</string>
+    <string name="vi">ຫວຽດນາມ</string>
+    <string name="zh">ພາສາຈີນ</string>
+</resources>

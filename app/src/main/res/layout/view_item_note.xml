@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/layout_item_note"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="9dp"
+    android:layout_marginVertical="9dp"
+    android:background="@drawable/border_layout"
+    android:backgroundTint="#B0E9CA"
+    android:orientation="vertical"
+    android:paddingHorizontal="16dp"
+    android:paddingVertical="18dp">
+
+    <TextView
+        android:id="@+id/tvTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:textColor="@color/primary_text_item"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        tools:text="Product Meeting" />
+
+    <TextView
+        android:id="@+id/tvContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="9dp"
+        android:maxLines="7"
+        android:textColor="@color/primary_text_item"
+        tools:ignore="RtlSymmetry"
+        tools:text="1. Review of Previous Action Items\n2. Product Development Update\n3. User Feedback and Customer Insights\n 4. Competitive Analysis\n 5.Roadmap Discussion " />
+
+    <TextView
+        android:id="@+id/tvDate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginTop="15dp"
+        android:textColor="@color/secondary_text_item"
+        android:textSize="10sp"
+        tools:ignore="SmallSp"
+        tools:text="October 30, 2023" />
+</LinearLayout>
